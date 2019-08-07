@@ -5,6 +5,6 @@
 
 * Takes ~5 mins for a full setup from scratch
 
-* You should then be able to login straight away from https://ip:4000
+* Login @ https://ip:4000 with admin: and the password displayed in the terminal output 
 
-* **Please** change the default admin:admin access through the settings in the web interface
+* **[User created with password '3d24a336-a184-4af4-8138-357c90beff11']**

@@ -126,4 +126,5 @@ else
     exit
 fi
 echo -e "${GREEN}[+] Installation is Complete!!!${NC}"
-echo -e "${YELLOW}[INFO] Please change default username:password admin:admin @ https://" + $IP + "${NC}"
+IP=`curl https://ipinfo.io/ip`
+echo -e "${YELLOW}[INFO] Please login @ https://"$IP"${NC}"

@@ -118,7 +118,7 @@ sudo gvmd
 sudo openvassd
 sudo gsad
 echo "[+] Checking openVAS is running"
-if [[ $(ps -aux | grep 'openvas'| wc -l) = *4* ]]
+if [[ $(ps -aux | grep 'gsad'| wc -l) = *3* ]]
 then
     echo -e "${GREEN}[+] openVAS Running!${NC}"
 else

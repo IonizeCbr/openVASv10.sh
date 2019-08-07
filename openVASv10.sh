@@ -126,4 +126,4 @@ else
     exit
 fi
 echo -e "${GREEN}[+] Installation is Complete!!!${NC}"
-echo -e "${YELLOW}[INFO] Please change default username:password admin:admin @ https://" + $IP + ":4000${NC}"
+echo -e "${YELLOW}[INFO] Please change default username:password admin:admin @ https://" + $IP + "${NC}"

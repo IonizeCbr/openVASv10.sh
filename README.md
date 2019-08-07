@@ -6,6 +6,6 @@
 
 * Takes ~5 mins for a full setup from scratch
 
-* Login @ https://ip:4000 with admin: and the password displayed in the terminal output i.e. > 
+* Login @ https://ip with admin: and the password displayed in the terminal output i.e. > 
 
 * **[User created with password '3d24a336-a184-4af4-8138-357c90beff11']**

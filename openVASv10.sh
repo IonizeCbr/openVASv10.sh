@@ -11,6 +11,8 @@ cd gvm10
 echo "[+] Update and Upgrade"
 sudo apt update
 sudo apt upgrade -y
+echo "[+] Installing Latest nmap"
+sudo snap install nmap 
 echo "[+] Installing Requirements"
 sudo apt install -y bison cmake gcc gcc-mingw-w64 heimdal-dev libgcrypt20-dev libglib2.0-dev libgnutls28-dev libgpgme-dev libhiredis-dev libksba-dev libmicrohttpd-dev git libpcap-dev libpopt-dev libsnmp-dev libsqlite3-dev libssh-gcrypt-dev xmltoman libxml2-dev perl-base pkg-config python3-paramiko python3-setuptools uuid-dev curl redis doxygen libical-dev python-polib gnutls-bin
 echo "[+] Installing Yarn Javascript"
